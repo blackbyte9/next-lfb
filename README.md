@@ -18,6 +18,8 @@
 ## Used
 https://nextjs.org/docs/app/getting-started/installation
 https://github.com/mui/material-ui/tree/master/examples/material-ui-nextjs-pages-router-ts
+https://github.com/flexicious/react-data-grid/tree/master/apps/sql-react-datagrid
+https://krimsonhart.medium.com/how-i-built-my-portfolio-using-next-js-and-sqlite-db-part-2-37595ca4dc40
 
 ## Storage
 https://nextjs.org/learn/dashboard-app/getting-started
