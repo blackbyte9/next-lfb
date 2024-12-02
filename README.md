@@ -20,6 +20,11 @@ https://nextjs.org/docs/app/getting-started/installation
 https://github.com/mui/material-ui/tree/master/examples/material-ui-nextjs-pages-router-ts
 https://github.com/flexicious/react-data-grid/tree/master/apps/sql-react-datagrid
 https://krimsonhart.medium.com/how-i-built-my-portfolio-using-next-js-and-sqlite-db-part-2-37595ca4dc40
+https://zustand.docs.pmnd.rs/getting-started/introduction
+https://next-auth.js.org/tutorials/securing-pages-and-api-routes
+https://www.papaparse.com/docs
+
+
 
 ## Storage
 https://nextjs.org/learn/dashboard-app/getting-started
